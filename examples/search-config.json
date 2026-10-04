@@ -1,0 +1,23 @@
+{
+  "queries": [
+    "公司治理 数字化转型",
+    "上市公司 数字化 研究"
+  ],
+  "target": 20,
+  "sort": "relevance",
+  "contains_any": [
+    "公司治理",
+    "数字化"
+  ],
+  "contains_all": [],
+  "exclude_any": [
+    "培训",
+    "广告"
+  ],
+  "source_include_any": [],
+  "source_exclude_any": [],
+  "unknown_date": "drop",
+  "per_query_limit": 30,
+  "max_scroll_rounds": 5,
+  "batch_size": 20
+}

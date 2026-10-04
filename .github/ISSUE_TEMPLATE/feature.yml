@@ -1,0 +1,11 @@
+name: Feature request / 使用场景
+description: Describe a concrete research workflow or improvement.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case / 使用场景
+      description: What are you trying to accomplish, and where does the current workflow fall short?
+    validations:
+      required: true

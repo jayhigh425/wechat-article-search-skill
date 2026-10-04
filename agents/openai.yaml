@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号检索"
+  short_description: "检索微信公众号文章，提取正文与原文链接，支持断点恢复、离线重筛及导出。"
+  default_prompt: "使用 $wechat-weread-official 检索微信公众号文章，核实原文链接和可见正文，并导出可追溯的结果。"

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">WeChat Article Search Skill · 微信公众号文章检索</title>
+<desc id="desc">Search visible articles through WeRead, keep source links, resume and export.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#062e2c"/><stop offset="1" stop-color="#102334"/></linearGradient></defs>
+<rect width="1200" height="520" rx="20" fill="url(#bg)"/>
+<circle cx="1050" cy="90" r="230" fill="#27c491" opacity=".08"/>
+<g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+<text x="62" y="86" fill="#65e0b1" font-size="20" letter-spacing="3">CODEX SKILL · WECHAT · WEREAD</text>
+<text x="62" y="157" fill="#fff" font-size="44" font-weight="700">微信公众号文章检索</text>
+<text x="62" y="208" fill="#d7e7e8" font-size="26">WeChat Article Search Skill</text>
+<text x="62" y="271" fill="#acc8cc" font-size="23">查文章 · 读正文 · 留原文 · 可追溯</text>
+<g font-size="17" fill="#d5f8e9"><rect x="62" y="309" width="125" height="40" rx="20" fill="#145044"/><text x="84" y="335">断点续采</text>
+<rect x="199" y="309" width="125" height="40" rx="20" fill="#145044"/><text x="221" y="335">离线重筛</text>
+<rect x="336" y="309" width="210" height="40" rx="20" fill="#145044"/><text x="357" y="335">JSON / CSV / Markdown</text></g>
+<text x="62" y="436" fill="#9bb8bc" font-size="17">Windows + Edge  ·  Python CLI  ·  MIT</text>
+<rect x="706" y="114" width="422" height="292" rx="18" fill="#f4f8f8"/>
+<rect x="730" y="140" width="374" height="46" rx="9" fill="#e0edeb"/>
+<text x="748" y="170" fill="#25423f" font-size="18">主题 / 公众号 / 时间范围</text>
+<g fill="#d7e5e4"><rect x="730" y="211" width="36" height="36" rx="8"/><rect x="730" y="274" width="36" height="36" rx="8"/><rect x="730" y="337" width="36" height="36" rx="8"/></g>
+<g fill="#567773"><rect x="783" y="214" width="233" height="10" rx="5"/><rect x="783" y="277" width="269" height="10" rx="5"/><rect x="783" y="340" width="208" height="10" rx="5"/></g>
+<g fill="#a6c4bf"><rect x="783" y="233" width="167" height="7" rx="3"/><rect x="783" y="296" width="155" height="7" rx="3"/><rect x="783" y="359" width="186" height="7" rx="3"/></g>
+</g></svg>

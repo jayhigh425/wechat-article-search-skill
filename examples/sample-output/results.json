@@ -1,0 +1,21 @@
+{
+  "sample_data": true,
+  "note": "Fictional schema demonstration; not a collected WeChat article.",
+  "schema_version": 2,
+  "command": "search",
+  "status": "complete",
+  "records": [
+    {
+      "id": "sample_article",
+      "title": "数字化转型与公司治理：示例文章",
+      "account": "示例研究号",
+      "published_date": "2026-09-01",
+      "url": "https://example.com/fictional-article",
+      "matched_queries": [
+        "公司治理 数字化转型"
+      ],
+      "search_status": "not_applicable",
+      "fulltext_status": "not_requested"
+    }
+  ]
+}

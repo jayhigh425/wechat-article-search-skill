@@ -1,0 +1,25 @@
+name: Bug report / 问题反馈
+description: Report a reproducible search, extraction or resume problem.
+title: "[Bug] "
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment / 运行环境
+      description: Windows version, browser, Python/uv version and repository commit if known.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps and command / 复现方式
+      description: Include a minimal command. Remove account/session information.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior / 预期与实际结果
+      description: Include the status and error; do not upload profiles, cookies or login QR codes.
+    validations:
+      required: true
